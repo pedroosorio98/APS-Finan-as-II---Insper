@@ -1,2 +1,3 @@
 # APS Finanças II - Insper
-Código para a elaboração da Atividade Prática e Supervisionada (APS) da matéria de Finanças II do Insper
+Autores: Arthur Wachslicht e Pedro Osorio.
+Código elaborado por Arthur Wachslicht e Pedro Osorio para a elaboração da Atividade Prática e Supervisionada (APS) da matéria de Finanças II do Insper. 
