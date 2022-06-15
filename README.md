@@ -1,4 +1,4 @@
 # APS Finanças II - Insper
-**Autores:** Arthur Wachslicht e Pedro Osorio.
+**Authors:** Arthur Wachslicht e Pedro Osorio.
 
-Código elaborado por Arthur Wachslicht e Pedro Osorio para a elaboração da Atividade Prática e Supervisionada (APS) da matéria de Finanças II do Insper. Os tópicos abordados estão ligados à fronteira eficiente de markowitz para a alocação ótima de ativos
+Code written by Arthur Wachslicht and Pedro Osorio for the Finance II course project at Insper. Topics are mainly related to efficient Markowitz frontier for optimal asset allocation.
